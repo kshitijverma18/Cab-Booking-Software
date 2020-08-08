@@ -1,5 +1,5 @@
 # Cab-Booking-Software
-An java application made using Netbeans which allows users to book cabs and manage rides implementing the concepts of Object Oriented Programming language.
+A java application made using Netbeans which allows users to book cabs and manage rides implementing the concepts of Object-Oriented Programming language.
 ## About
 This is a college OOP (Object oriented programming language) project made in java using netbeans. The purpose of this project is to learn and implement OOP concepts.
 The application has the following features : <br />
