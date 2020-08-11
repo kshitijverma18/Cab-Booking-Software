@@ -8,3 +8,17 @@ The application has the following features : <br />
 3. Users can mention their personal details like name, Email ID, Phone no. etc. <br />
 4. Users can enter their pickup location and drop location. The free driver closest to the user's location will be allotted to the user.
 5. The past ride details of the user will be displayed.
+
+![alt text](https://github.com/kshitijverma18/Cab-Booking-Software/blob/master/Screenshots/AddMoney2.PNG) <br/>
+
+![alt text](https://github.com/kshitijverma18/Cab-Booking-Software/blob/master/Screenshots/BookRide2.PNG) <br/>
+
+![alt text](https://github.com/kshitijverma18/Cab-Booking-Software/blob/master/Screenshots/LoginPage2.PNG) <br/>
+
+![alt text](https://github.com/kshitijverma18/Cab-Booking-Software/blob/master/Screenshots/OnYourWay2.PNG) <br/>
+
+![alt text](https://github.com/kshitijverma18/Cab-Booking-Software/blob/master/Screenshots/Register2.PNG) <br/>
+
+![alt text](https://github.com/kshitijverma18/Cab-Booking-Software/blob/master/Screenshots/RideDetails2.PNG) <br/>
+
+
